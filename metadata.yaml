@@ -5,7 +5,7 @@ contributor:
   translator:
     agent_name: Byington, Steven T. (Steven Tracy)
     alias: Byington, Steven Tracy
-    birthdate: &id001 1868
+    birthdate: 1868
     deathdate: 1957
     gutenberg_agent_id: '37097'
     url: http://www.gutenberg.org/2009/agents/37097
@@ -16,12 +16,14 @@ covers:
 creator:
   author:
     agent_name: Eltzbacher, Paul
-    birthdate: *id001
+    birthdate: 1868
     deathdate: 1928
     gutenberg_agent_id: '38424'
     url: http://www.gutenberg.org/2009/agents/38424
     wikipedia: http://en.wikipedia.org/wiki/Paul_Eltzbacher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36690#Anarchism
 gutenberg_issued: '2011-07-10'
 gutenberg_type: Text
 identifiers:
